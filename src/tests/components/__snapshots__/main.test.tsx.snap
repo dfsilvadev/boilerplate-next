@@ -1,9 +1,23 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
-<main>
+<main
+  class="sc-beyTiQ dgjEYL"
+>
   <h1>
-    Boilerplate Next
+    Boilerplate
   </h1>
+  <div>
+    <img
+      alt="Next.js Logo"
+      data-nimg="1"
+      decoding="async"
+      fetchpriority="high"
+      height="37"
+      src="/next.svg"
+      style="color: transparent;"
+      width="180"
+    />
+  </div>
 </main>
 `;
