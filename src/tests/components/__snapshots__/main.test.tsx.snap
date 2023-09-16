@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading and next logo 1`] = `
+.c0 {
+  background-color: #f2f3f5;
+  width: 100vw;
+  height: 100vh;
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+<main
+  class="c0"
+>
+  <h1>
+    Boilerplate
+  </h1>
+  <div>
+    <img
+      alt="Next.js Logo"
+      data-nimg="1"
+      decoding="async"
+      fetchpriority="high"
+      height="37"
+      src="/next.svg"
+      style="color: transparent;"
+      width="180"
+    />
+  </div>
+</main>
+`;

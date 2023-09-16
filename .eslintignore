@@ -1,0 +1,12 @@
+# Ignore artifacts:
+!.storybook
+!.jest
+build
+coverage
+.next
+node_modules
+vscode
+.github
+
+# Ignore all .hbs files
+*.hbs
